@@ -1,0 +1,15 @@
+assets/profiles/*
+assets/uploads/*
+assets/php/invoiceGenerated/*
+assets/php/quotationGenerated/*
+assets/php/rentRecieptGenerated/*
+assets/php/reportsGenerated/*
+assets/php/connection.php
+
+# exception to the rule
+!assets/profiles/.gitkeep
+!assets/uploads/.gitkeep
+!assets/php/invoiceGenerated/.gitkeep
+!assets/php/quotationGenerated/.gitkeep
+!assets/php/rentRecieptGenerated/.gitkeep
+!assets/php/reportsGenerated/.gitkeep
